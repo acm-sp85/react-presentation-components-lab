@@ -7,7 +7,7 @@ import SimplerComponent from './components/SimplerComponent';
 ReactDOM.render(
   <div>
     <SimpleComponent />
-    <SimplerComponent handleClick={()=> console.log("eres un caramielda")} />
+    <SimplerComponent handleClick={()=> console.log("eres un fiera")} />
   </div>,
   document.getElementById('root')
 );
